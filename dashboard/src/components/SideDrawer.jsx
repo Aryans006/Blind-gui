@@ -12,7 +12,7 @@ const Index = ({ openDrawer = false, setOpenDrawer }) => {
             width: { xs: "100vw", md: "70vw", lg: "50vw" },
             paddingTop: "5%",
             paddingLeft: "14%",
-            backgroundColor: "#FFEDFC",
+            backgroundColor: "#010100",
             minHeight: "100vh",
             paddingBottom: "5%",
           }}

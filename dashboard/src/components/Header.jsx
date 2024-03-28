@@ -23,7 +23,7 @@ const Header = () => {
         width={"auto"}
         paddingBottom={"15px"}
         sx={{
-          backgroundColor: "#152982",
+          backgroundColor: "#010100",
         }}
       >
         <Box
@@ -42,14 +42,14 @@ const Header = () => {
             <Menu
               height={54}
               width={54}
-              fill={"blue"}
+              fill={"#010100"}
               sx={{
-                color: "white",
+                color:"black",
               }}
             />
           </IconButton>
           <Typography fontSize={"26px"} fontWeight={600} color={"white"}>
-            Factro-set
+            I.R.I.S
           </Typography>
         </Box>
       </Box>
@@ -86,7 +86,8 @@ const Header = () => {
           sx={{
             overflowY: "scroll",
           }}
-        ></Stack>
+        >
+        </Stack>
       </Drawer>
     </>
   );

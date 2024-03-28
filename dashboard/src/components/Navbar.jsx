@@ -79,7 +79,7 @@ const Navbar = () => {
         paddingX={"15px"}
         height={"90vh"}
         sx={{
-          backgroundColor: "#152982",
+          backgroundColor: "#010100",
         }}
       >
         <IconButton
